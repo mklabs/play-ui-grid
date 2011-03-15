@@ -119,7 +119,6 @@ to
 
     package controllers;
 
-    import java.lang.reflect.Field;
     import java.util.List;
 
     import play.Logger;
@@ -360,5 +359,3 @@ And yeah, the CRUD's layout file (app/views/CRUD/layout.html) has been boilerpla
     </body>
     </html>
 
-
-Sooooo much better this way ;)
